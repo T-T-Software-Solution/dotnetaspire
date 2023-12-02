@@ -7,7 +7,7 @@ var apiservice = builder.AddProject<Projects.AspireSample_ApiService>("apiservic
 
 builder.AddProject<Projects.AspireSample_Web>("webfrontend")
     .WithReference(cache)
-    .WithReference(rabbit)
-    .WithReference(apiservice);
+    .WithReference(apiservice)
+    .WithReference(rabbit);
 
 builder.Build().Run();

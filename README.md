@@ -4,6 +4,10 @@
 
 ![](https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/11/Aspire-CTAs1.png)
 
+## Video
+ดูรายละเอียดทั้งหมดเป็น Video ได้บน Youtube นะคร้าบ : )
+https://youtu.be/iakfoNJ9MXM
+
 ## Slide
 https://docs.google.com/presentation/d/1EreMAJKNMj_kvNsJn4ygTrcmXj8797_7mdqim_xMVeg/edit?usp=sharing
 
